@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Amanullah Sarker
-- 👀 I’m interested in Android Application Development & Data Science
-- 🌱 I’m currently learning Machine Learning, Natural Language Processing & Computer Vision
-- 💞️ I’m looking to collaborate on Data Science
+- 👀 I’m interested in Android Application Development
 - 📫 How to reach me Mobile:- 01710517010, Facebook:- https://www.facebook.com/me.amanullah, LinkedIn:- https://www.linkedin.com/in/amanullah-sarker-1102b817a/
 
 <!---
